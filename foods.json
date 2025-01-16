@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Apple",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 52
+    },
+    {
+        "name": "Banana",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 89
+    },
+    {
+        "name": "Avocado",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 160
+    },
+    {
+        "name": "Boiled Egg",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 155
+    },
+    {
+        "name": "Chicken Breast",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 165
+    },
+    {
+        "name": "Salmon",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 206
+    },
+    {
+        "name": "White Rice",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 130
+    },
+    {
+        "name": "Brown Rice",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 111
+    },
+    {
+        "name": "Spinach",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 41
+    },
+    {
+        "name": "Carrot",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 41
+    },
+    {
+        "name": "Greek Yogurt",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 59
+    },
+    {
+        "name": "Almonds",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 576
+    },
+    {
+        "name": "Avocado",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 160
+    },
+    {
+        "name": "Whole Wheat Bread",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 247
+    },
+    {
+        "name": "Cheddar Cheese",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 402
+    },
+    {
+        "name": "Potato",
+        "quantity": 100,
+        "unit": "g",
+        "calories": 93
+    }
+]

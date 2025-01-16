@@ -1,0 +1,17 @@
+[
+  {
+    "name": "White Bread",
+    "problem": "White bread is made from refined flour and lacks fiber, vitamins, and minerals compared to whole grain options",
+    "improve": "Pair white bread with protein (e.g., turkey, hummus) and healthy fats (e.g., avocado) to boost its nutritional value. You can also add fresh vegetables or use it as a base for nutrient-dense sandwiches or wraps"
+  },
+  {
+    "name": "French Fries",
+    "problem": "Fried potatoes are high in unhealthy fats and calories, but low in essential nutrients",
+    "improve": "Make homemade oven-baked fries using sweet potatoes or carrots for extra vitamins and minerals. Pair with a healthy protein source like grilled chicken or fish for a more balanced meal"
+  },
+  {
+    "name": "Instant Noodles",
+    "problem": "Instant noodles are often low in nutrients and high in sodium and preservatives",
+    "improve": "Add vegetables (spinach, broccoli, or mushrooms) and a protein source (like tofu, chicken, or boiled eggs) to increase the fiber, vitamins, and minerals. Use low-sodium broth instead of the seasoning packet"
+  }
+]
